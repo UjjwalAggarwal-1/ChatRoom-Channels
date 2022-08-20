@@ -1,0 +1,5 @@
+.vscode
+channels-venv
+db.sqlite3
+migrations
+__pycache__
